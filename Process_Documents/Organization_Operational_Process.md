@@ -138,11 +138,10 @@ Contributor members *do not* also need to be a Linux Foundation member.
 
 * Steering Committee
 
-* Specification Working Group
-* Open Source Working Group
+* Working Group (covering the specifications and the open source projects)
 * Marketing Committee
 
-The Steering Committee decides on the priorities or order of business for the organization. The Working Groups and Marketing Committee organise work packages and report to the Steering Committee.
+The Steering Committee decides on the priorities or order of business for the organization. The Working Group and Marketing Committee organise work packages and report to the Steering Committee.
 
 **Special Interest Groups (SIGs)**
 
@@ -179,7 +178,7 @@ One of the more important duties of the Steering Committee is the approval of th
 
 #### Working Groups (WG)
 
-Working Groups (WGs) are chartered by the Steering Committee to handle one or more [Work Packages](#work-packages)
+Working Groups (WGs) are chartered by the Steering Committee to handle one or more [Work Packages](#work-packages). The foundation has one Working Group, which operates under both of the foundation's Working Group charters. The Working Group sets shared guidelines and templates and coordinates work across projects. It does not govern the projects: decisions for a project are made in the project, under the governance rules in its own repository.
 
 #### Marketing Committee
 
@@ -201,7 +200,7 @@ Marketing Committee participation is open to all members.
 *Note: A Participant is any individual creating content or commenting on an issue or pull request.*
 
 * Participants MUST read the Project documentation (e.g.: this operational document, contribution guidelines, README, and Release Planning documents) before attenting to submit an Issue or Pull Request
-* Participants are not allowed to fork a project to build a feature that has been rejected by the Working Group
+* Participants are not allowed to fork a specification to build a feature that has been rejected by the Working Group
 
 ### Editors
 *Note: An Editor is a subset of Participants who have been given write access to the repository for a specification. They will advance the day-to-day evolution of the specification*
@@ -210,7 +209,7 @@ Marketing Committee participation is open to all members.
 
 ### Maintainers
 
-“Maintainers” are responsible for organizing activities around developing, maintaining, and updating the specification(s) and/or open source projects developed by the Working Groups. Maintainers are also responsible for determining consensus and coordinating contributions and reviews. Each project will designate one or more Maintainer. A project may select a new or additional Maintainer(s) upon Approval of the Working Group.
+“Maintainers” are responsible for organizing activities around developing, maintaining, and updating the specification(s) and/or open source projects developed by the Working Groups. Maintainers are also responsible for determining consensus and coordinating contributions and reviews. Each project will designate one or more Maintainer. Open source projects select new or additional Maintainers according to the governance rules in their own repository (for example, a MAINTAINERS.md file), as set out in the Open Source Implementations Working Group charter. A specification may select a new or additional Maintainer(s) upon Approval of the Working Group.
 
 * Maintainers SHOULD keep communications with the members via GitHub Issues or Pull Requests rather than one to one communications
 * Maintainers MUST keep the project documentation up to date (e.g.: contributing, readme and release planning documents)
